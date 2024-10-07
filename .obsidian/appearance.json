@@ -1,0 +1,13 @@
+{
+  "accentColor": "#f06000",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "JetBrains Mono NL,Times New Roman",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style"
+  ]
+}

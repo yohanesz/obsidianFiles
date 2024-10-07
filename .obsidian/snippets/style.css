@@ -1,0 +1,17 @@
+
+.math {
+	font-size: 18px;
+}
+
+.math.cm-embed-block {
+	font-size: 25px;
+}
+
+.workspace-leaf-content {
+     
+}
+
+body {
+    --file-line-width: 900px;
+}
+

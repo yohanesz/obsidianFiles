@@ -1,0 +1,19 @@
+{
+  "obsidian-banners:banners:addBanner": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "colored-text:alter-color-palette": [],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ]
+}

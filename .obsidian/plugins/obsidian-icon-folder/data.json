@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📁",
+      "⏰",
+      "3️⃣",
+      "4️⃣",
+      "2️⃣"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Estudos/Curso em Video/Banco de Dados/CV - Banco de Dados.md": "📄",
+  "Estudos/Curso em Video/Banco de Dados": "📁",
+  "Estudos/Curso em Video/Java POO": "📁",
+  "Estudos/Curso em Video/Java POO/Aula 01.md": "📄",
+  "Estudos/Curso em Video/Java POO/Aula 02.md": "📄",
+  "Estudos/Ciência da Computação": "📁",
+  "Estudos/Ciência da Computação/3º Semestre/Prog. Orientada a Objetos II": "📁",
+  "Estudos/Ciência da Computação/3º Semestre/Estrutura de Dados I": "📁",
+  "Estudos/Ciência da Computação/3º Semestre/Banco de Dados II": "📁",
+  "Estudos/Ciência da Computação/3º Semestre/LFA I": "📁",
+  "Estudos/Ciência da Computação/3º Semestre/LFA I/Artigos": {
+    "iconName": null,
+    "inheritanceIcon": "📄"
+  },
+  "Diagramas": "📁",
+  "Diversos": "📁",
+  "Estudos": "📁",
+  "FabTec": "📁",
+  "Images": "📁",
+  "Gráfico": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Arquitetura de Computadores": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Banco de Dados I": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Cálculo I": {
+    "iconName": "📁",
+    "inheritanceIcon": "📄"
+  },
+  "Estudos/Ciência da Computação/2º Semestre/Engenharia de Software I": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Matemática Discreta": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Programação Orientada a Objetos I": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Arquitetura de Computadores/ARQ COMP - Atividades": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Cálculo I/C1 - Limite de uma função assíntota.md": {
+    "iconName": "📄",
+    "inheritanceIcon": "📄"
+  },
+  "Estudos/Ciência da Computação/2º Semestre/Cálculo I/C1 - Limites infinitos.md": "📄",
+  "Estudos/Ciência da Computação/2º Semestre/Cálculo I/C1 - Propriedades de Limite.md": "📄",
+  "Estudos/Ciência da Computação/2º Semestre/Engenharia de Software I/ENG.SOFT - Atividades": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Programação Orientada a Objetos I/POO - Anotações": "📁",
+  "Estudos/Ciência da Computação/2º Semestre/Engenharia de Software I/ENG.SOFT - Atividades/At.1. Processos de Software.md": "📄",
+  "Estudos/Ciência da Computação/2º Semestre/Programação Orientada a Objetos I/POO - Anotações/POO - Gravar e ler arquivo.md": "📄",
+  "Estudos/Ciência da Computação/2º Semestre/Programação Orientada a Objetos I/POO - Anotações/POO - Orientação a Objetos.md": "📄",
+  "Gerenciador de tarefas.md": "⏰",
+  "Bolsa": "📁",
+  "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear": "📁",
+  "Estudos/Ciência da Computação/4º Semestre/Compiladores": "📁",
+  "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II": "📁",
+  "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais": "📁"
+}
