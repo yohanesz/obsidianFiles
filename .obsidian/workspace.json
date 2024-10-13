@@ -128,11 +128,20 @@
             "id": "dee04bdf20f26e7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "4..md",
-                "mode": "source",
-                "source": false
+                "file": "Gerenciador de tarefas.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -203,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4..md",
+                "file": "Gerenciador de tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4..md",
+                "file": "Gerenciador de tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4..md"
+                "file": "Gerenciador de tarefas.md"
               }
             }
           },
@@ -316,15 +325,15 @@
   },
   "active": "dee04bdf20f26e7e",
   "lastOpenFiles": [
+    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/4..md",
     "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
-    "4..md",
     "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/1. Introdução.md",
-    "4. Matriz inversa por determinante.md",
+    "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/4. Matriz inversa por determinante.md",
     "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/3. Determinantes.md",
     "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/1. Matrizes.md",
     "Bolsa/2..md",
     "Bolsa/1..md",
-    "4. Analisador Sintático.md",
+    "Estudos/Ciência da Computação/4º Semestre/Compiladores/4. Analisador Sintático.md",
     "Estudos/Ciência da Computação/4º Semestre/Compiladores/3. Análise Léxica.md",
     "[a-z]|[0-9].md",
     "Estudos/Ciência da Computação/4º Semestre/Compiladores/2. Análise Léxica.md",
