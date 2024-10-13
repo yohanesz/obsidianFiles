@@ -58,14 +58,86 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II/1. Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d3501d4f82550d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Ciência da Computação/4º Semestre/Compiladores/2. Análise Léxica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fabeab823fe40001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Ciência da Computação/4º Semestre/Compiladores/3. Análise Léxica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9befdf48fd8dba20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bolsa/1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b561c33964c8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/3. Determinantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6757f968f7c3fdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee04bdf20f26e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -94,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#criar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
+                "file": "4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
+                "file": "4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md"
+                "file": "4..md"
               }
             }
           },
@@ -242,50 +314,50 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "687add95b5d9628e",
+  "active": "dee04bdf20f26e7e",
   "lastOpenFiles": [
-    "Gerenciador de tarefas.md",
+    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
+    "4..md",
+    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/1. Introdução.md",
+    "4. Matriz inversa por determinante.md",
+    "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/3. Determinantes.md",
+    "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/1. Matrizes.md",
+    "Bolsa/2..md",
+    "Bolsa/1..md",
+    "4. Analisador Sintático.md",
+    "Estudos/Ciência da Computação/4º Semestre/Compiladores/3. Análise Léxica.md",
+    "[a-z]|[0-9].md",
+    "Estudos/Ciência da Computação/4º Semestre/Compiladores/2. Análise Léxica.md",
     "FabTec/atividades/6. Laravel.md",
-    "FabTec/atividades/7. Laravel.md",
-    "FabTec/atividades/8. Laravel.md",
-    "FabTec/atividades/9. Laravel.md",
     "FabTec/atividades/5. Laravel.md",
     "FabTec/atividades/4. Laravel.md",
     "FabTec/atividades/3. Laravel.md",
     "FabTec/atividades/2. Laravel.md",
     "FabTec/atividades/1. Laravel.md",
-    "FabTec/anotações/Laravel.md",
-    "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/1. Matrizes.md",
-    "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear/3. Determinantes.md",
-    "FabTec/Repositório Acadêmico/1..md",
-    "FabTec/Repositório Acadêmico",
+    "FabTec/atividades/9. Laravel.md",
+    "FabTec/atividades/7. Laravel.md",
     "Estudos/Ciência da Computação/4º Semestre/Compiladores/1. Introdução.md",
-    "Estudos/Ciência da Computação/4º Semestre/Compiladores/2. Análise Léxica.md",
-    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/3..md",
-    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/2..md",
-    "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais/1. Introdução.md",
+    "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II/2. Balanceamento Árvores.md",
     "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II/1. Introdução.md",
-    "Bolsa/1..md",
+    "FabTec/anotações/Laravel.md",
+    "FabTec/anotações/QA - Teste.md",
+    "Gerenciador de tarefas.md",
+    "FabTec/Repositório Acadêmico",
     "Estudos/Ciência da Computação/4º Semestre/Álgebra Linear",
     "Estudos/Ciência da Computação/4º Semestre/Compiladores",
     "Bolsa",
     "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II/Untitled Diagram.svg",
-    "Kanban sem título.md",
     "Sem título.canvas",
     "Estudos/Ciência da Computação/4º Semestre/Estrutura de Dados II",
-    "Estudos/RocketSeat/CSS.md",
     "Diagramas/Untitled Diagram 2.svg",
     "Diagramas/Untitled Diagram 1.svg",
     "Diagramas/Untitled Diagram.svg",
-    "Estudos/Curso em Video/Java POO/Aula 01.md",
     "Images/Banners/Download CPU essence Circuit board, digital chip on motherboard, creates technology centered backdrop Vertical Mobile Wallpaper AI Generated for free.jpeg",
     "Images/Banners/3d-illustration-technology-smart-motherboard-chip-creative-map_1162225-21008.avif",
     "Images/Banners",
     "Images",
-    "1.6. Atividade.md",
     "Estudos/Ciência da Computação/4º Semestre/Sistemas Operacionais",
     "Estudos/Ciência da Computação/4º Semestre",
-    "FabTec/anotações/Laravel 1.md",
     "FabTec/anotações",
     "Estudos/Ciência da Computação/2º Semestre/Banco de Dados I/Diagrama3.svg",
     "Estudos/Ciência da Computação/2º Semestre/Banco de Dados I/DERnormalizaçãoII.svg",
